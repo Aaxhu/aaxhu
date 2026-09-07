@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+🔭 I’m currently working on AI-powered projects, automation, and personal developer tools<br>
+👯 I’m looking to collaborate on AI/ML projects, automation tools, and open-source projects<br>
+🤝 I’m looking for help with building intelligent AI agents and real-world AI systems<br>
+🌱 I’m currently learning Python, AI/ML, Data Structures & Algorithms, and AI agents<br>
+💬 Ask me about Python, AI/ML, DSA, LeetCode, and automation<br>
+⚡ Fun fact: I don’t just want to use AI — I want to build systems that can actually do things.
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/aaxhu) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shivam785225) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shivay yadav) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Aaxhulistic) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam yadav) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Aaxhulistic) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/ComfortableBasic7944) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/aaxhulistic) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shivay7852) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aaxhu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sy237215@gmail.com) 
